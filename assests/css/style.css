@@ -141,8 +141,8 @@ label
     right: 0;
     width: 100%;
     height:100%;
-   background-image: url("/protfolio-template/assests/img2.jpg");
-     opacity: 0.5; 
+   background-image: url("/protfolio-template/assests/img.jpg");
+   /*  opacity: 0.5; */
     background-size: cover;
     background-position: center center;
     z-index: -1;
